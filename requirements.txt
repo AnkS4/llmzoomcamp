@@ -13,4 +13,8 @@ tiktoken==0.9.0
 
 
 # For Module 2
+fastembed==0.7.1
 qdrant-client[fastembed]==1.14.3
+
+# For workshop 1
+dlt[qdrant]==1.12.3
